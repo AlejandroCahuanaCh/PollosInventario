@@ -12,6 +12,7 @@ namespace Repositorio.Implementacion
 {
     public class EntidadRepo : IEntidadRepo
     {
+        //prueba de git 123
         readonly InventariosContext ctx;
         public int ActualizarEntidad(EntidadDTO entidad)
         {
