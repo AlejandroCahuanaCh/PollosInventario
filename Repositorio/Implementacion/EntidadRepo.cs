@@ -50,7 +50,31 @@ namespace Repositorio.Implementacion
 
         public int DesactivarEntidad(int identidad)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Entidad EntidadObtenida = ctx.Entidads
+                                           .Where(e => e.Identidad == identidad)
+                                           .First();
+
+                if (EntidadObtenida != null)
+                {
+                    EntidadDTO entidadDTO = new EntidadDTO
+                    {
+                        LogEstado = 0 //desactivar era eso???
+
+                    };
+
+                    return entidadDTO.LogEstado;
+                }
+                else
+                {
+                    return identidad;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex; // Maneja la excepción según sea necesario
+            }
         }
 
         public int GuardarEntidad(EntidadDTO entidad)//nueva entidad???
