@@ -1,0 +1,17 @@
+D:\PollosInventario\Negocio\bin\Debug\net6.0\Negocio.deps.json
+D:\PollosInventario\Negocio\bin\Debug\net6.0\Negocio.dll
+D:\PollosInventario\Negocio\bin\Debug\net6.0\Negocio.pdb
+D:\PollosInventario\Negocio\bin\Debug\net6.0\Dominio.dll
+D:\PollosInventario\Negocio\bin\Debug\net6.0\Repositorio.dll
+D:\PollosInventario\Negocio\bin\Debug\net6.0\Dominio.pdb
+D:\PollosInventario\Negocio\bin\Debug\net6.0\Repositorio.pdb
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.dll
+D:\PollosInventario\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+D:\PollosInventario\Negocio\obj\Debug\net6.0\Negocio.pdb
+D:\PollosInventario\Negocio\obj\Debug\net6.0\ref\Negocio.dll

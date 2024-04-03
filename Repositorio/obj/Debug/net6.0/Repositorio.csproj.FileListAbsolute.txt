@@ -1,0 +1,17 @@
+D:\PollosInventario\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\PollosInventario\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\PollosInventario\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\PollosInventario\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\PollosInventario\Repositorio\bin\Debug\net6.0\Dominio.dll
+D:\PollosInventario\Repositorio\bin\Debug\net6.0\Dominio.pdb
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\PollosInventario\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
